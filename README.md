@@ -16,3 +16,6 @@ Simple Interest = (Principal * Rate * Time) / 100
 ### Usage
 
 This project is part of an assignment to demonstrate the GitHub UI usage.
+
+
+This is a small fix for typo testing.
